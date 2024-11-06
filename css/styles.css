@@ -3133,9 +3133,9 @@ input::-moz-focus-inner {
 }
 
 .s-header__logo img {
-    width: 68px;
-    height: 10px;
-    margin-bottom: 0;
+    width: 200px;
+    height: 100px;
+    margin-top: 2;
 }
 
 
