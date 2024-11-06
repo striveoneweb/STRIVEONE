@@ -3133,8 +3133,8 @@ input::-moz-focus-inner {
 }
 
 .s-header__logo img {
-    width: 500px;
-    height: 400px;
+    width: 50%;
+    height: 50%;
     margin-top: 2;
 }
 
