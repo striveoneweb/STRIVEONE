@@ -4266,7 +4266,7 @@ html.no-csstransitions .s-hero__content {
  *---------------------------------------------- */
 .folio-item__thumb a {
     display: block;
-    width: 40%;
+    width: 100%;
     position: relative;
 }
 
