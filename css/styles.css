@@ -3133,9 +3133,9 @@ input::-moz-focus-inner {
 }
 
 .s-header__logo img {
-    width: 200px;
-    height: 200px%;
-    margin-bottom: 1;
+    width: 68px;
+    height: 10px;
+    margin-bottom: 0;
 }
 
 
@@ -4266,7 +4266,7 @@ html.no-csstransitions .s-hero__content {
  *---------------------------------------------- */
 .folio-item__thumb a {
     display: block;
-    width: 70%;
+    width: 75%;
     position: relative;
 }
 
