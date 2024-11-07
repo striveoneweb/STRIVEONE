@@ -2572,9 +2572,9 @@ input::-moz-focus-inner {
  * markup:
  *
  * <figure class="pull-quote">
- *		<blockquote>
- *			<p></p>
- *		</blockquote>
+ *      <blockquote>
+ *          <p></p>
+ *      </blockquote>
  * </figure>
  *
  * --------------------------------------------------------------------- */
@@ -2620,8 +2620,8 @@ input::-moz-focus-inner {
  * markup:
  *
  * <ul class="stats-tabs">
- *		<li><a href="#">[value]<em>[name]</em></a></li>
- *	</ul>
+ *      <li><a href="#">[value]<em>[name]</em></a></li>
+ *  </ul>
  *
  * Extend this object into your markup.
  *
@@ -3133,7 +3133,6 @@ input::-moz-focus-inner {
 }
 
 .s-header__logo img {
-    
     margin-top: 2;
 }
 
